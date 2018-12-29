@@ -28,6 +28,10 @@ https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-433951
 
 Above code trains the line follower robot to follow line made for robot. It used Q Learning approach to learn by itself. In this approach our bot update its Q table entry for each state it encounters by hit and trial approach and once all the entries in Q table are updated successfully it ready to follow its path.  
 
+### Contributor's
+1. [Omkar Thawakar](https://github.com/OmkarThawakar)
+2. [Pranav Gajjewar](https://github.com/Cartmanishere)
+
 ### Result
 
 [![IMAGE ALT TEXT](bot.png)](https://www.youtube.com/watch?v=rPhG_JPEv94)
