@@ -33,5 +33,4 @@ Above code trains the line follower robot to follow line made for robot. It used
 2. [Pranav Gajjewar](https://github.com/Cartmanishere)
 
 ### Result
-
-[![IMAGE ALT TEXT](bot.png)](https://www.youtube.com/watch?v=rPhG_JPEv94)
+[![IMAGE ALT TEXT](files/Robot.gif)](https://www.youtube.com/watch?v=rPhG_JPEv94)
